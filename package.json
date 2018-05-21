@@ -1,6 +1,6 @@
 {
   "name": "quick-logger",
-  "version": "0.0.1",
+  "version": "0.0.11",
   "description": "a plugin for logger",
   "main": "index.js",
   "scripts": {
