@@ -1,0 +1,14 @@
+{
+  "name": "quick-logger",
+  "version": "0.0.1",
+  "description": "a plugin for logger",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "keywords": [
+    "logger"
+  ],
+  "author": "tim",
+  "license": "ISC"
+}
