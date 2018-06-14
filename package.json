@@ -1,6 +1,6 @@
 {
-  "name": "quick-logger",
-  "version": "0.0.11",
+  "name": "pea-logger",
+  "version": "0.0.22",
   "description": "a plugin for logger",
   "main": "index.js",
   "scripts": {
